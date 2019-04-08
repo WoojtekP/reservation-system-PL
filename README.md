@@ -15,7 +15,7 @@ Jako parametry wywołania programu można podać kolejno: dzień, miesiąc, rok 
 **Uwaga**: Przed zmianą semestru należy pamiętać o tym, aby wyczyścić starą bazę danych (czyli usunąć plik reservations.dat).
 
 ### Rezerwacja urządzenia ###
-1. Wybierz opcję "REZERWUJ"z menu głównego.
+1. Wybierz opcję "REZERWUJ" z menu głównego.
 1. Wypełnij formularz podając typ, markę i model urządzenia oraz swoje imię i nazwisko (Uwaga: musisz wiedzieć jakie urządzenia znajdują się w bazie. Aby to sprawdzić przejdź do zakładki *sprawdź dostępność* lub *pokaż rezerwacje urządzenia*).
 1. Wybierz datę początku i końca rezerwacji na kalendarzach oraz wpisz godziny w polach tekstowych (godzina musi mieć format hh:mm). Rezerwując urządzenie na cały semestr można pominąć pola daty i godziny.
 1. Kliknij przycisk "ZATWIERDŹ".
